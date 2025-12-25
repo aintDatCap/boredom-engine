@@ -1,4 +1,9 @@
-const style = `img, video, shreddit-player {
+/**
+ * Used internally to test the style
+ */
+
+const style = 
+`.tw-image {
     filter: grayscale(100%) !important;
     -webkit-filter: grayscale(100%) !important;
 }`;
